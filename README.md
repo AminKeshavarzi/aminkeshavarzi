@@ -1,9 +1,12 @@
-<h2> Hey there! I'm Amin. <img src=" width="25"></h2>
+<h2> Hey there! I'm Amin. </h2>
 <img align="right" alt="GIF" src="https://th.bing.com/th/id/OIG2.LIqs940cCTSzCYTbeMoo?w=1024&h=1024&rs=1&pid=ImgDetMain" width="200"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
+
 - 🤔 &nbsp; An avid explorer of knowledge, constantly delving into new realms of learning.
+
 - 🔭 &nbsp; Currently delving into Machine Learning with Graphs.
+
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 🌱 &nbsp; A passiononer for innovation and entrepreneurial exploration.
 - ✍️ &nbsp; Crafting insightful criticism texts as a side hustle, I engage deeply with diverse subjects.
