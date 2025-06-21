@@ -5,18 +5,22 @@
 
 - 🤔 &nbsp; An avid explorer of knowledge, constantly delving into new realms of learning.
 
-- 🔭 &nbsp; Currently delving into Machine Learning with Graphs.
+- 🔭 &nbsp; Currently delving into Agenic AI Engineering.
 
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 🌱 &nbsp; A passiononer for innovation and entrepreneurial exploration.
 - ✍️ &nbsp; Crafting insightful criticism texts as a side hustle, I engage deeply with diverse subjects.
-- ☕ &nbsp; I belive, coffee is the fuel that powers the algorithms of innovation in the world of machine learning. 
+- ☕ &nbsp; I belive, coffee is the fuel that powers the algorithms of innovation in the world of AI. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python  
-- 🛢 &nbsp; MySQL | SQL | Cypher
-- 🔧 &nbsp; PyCharm | Visual Studio code | Git
+- 💻 &nbsp; Python | Shell  
+- ⚙️ &nbsp; PyTorch | PyTorch Geometric | HuggingFace Transformers  
+- 🔁 &nbsp; Kubernetes | Docker | REST APIs | Prometheus | Grafana  
+- 🧠 &nbsp; RLlib | Stable-Baselines3 | NetworkX | Neo4j | OpenAI Gym  
+- 🔧 &nbsp; VS Code | Git | Linux
+- 🧮 &nbsp; Pandas | NumPy | scikit-learn | dbt Cloud | GCP | Airbyte  
+- 🛢 &nbsp; SQL | MySQL | Cypher | SQLite
 
 <br>
 
